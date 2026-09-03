@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.0.1/PowerSkin-1.0.1.pkg",
-    "notes": "Universal build: adds Intel Mac support. Minor text fixes."
+    "version": "1.0.2",
+    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.0.2/PowerSkin-1.0.2.pkg",
+    "notes": "Stability fix: no more crash or hang when adding an Auto Mask."
 }
