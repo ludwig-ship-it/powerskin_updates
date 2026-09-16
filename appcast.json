@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
-    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.1/PowerSkin-1.1.pkg",
-    "notes": "Auto Skin (no Final Cut mask needed), Limit to Faces, Restore Details."
+    "version": "1.1.1",
+    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.1.1/PowerSkin-1.1.1.pkg",
+    "notes": "Adaptive skin detection, Sample Skin Color, HSL mask ranges, Smoothing fix."
 }
