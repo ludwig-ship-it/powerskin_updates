@@ -1,5 +1,5 @@
 {
-    "version": "1.1.2",
-    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.1.2/PowerSkin-1.1.2.pkg",
-    "notes": "Fixed haloing along edges; blemish removal unchanged on open skin."
+    "version": "1.2",
+    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.2/PowerSkin-1.2.pkg",
+    "notes": "Auto Scale: consistent look from wide shot to close-up, no keyframes. Detail Scale control."
 }
