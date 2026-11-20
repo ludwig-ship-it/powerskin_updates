@@ -1,5 +1,5 @@
 {
-    "version": "1.4.2",
-    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.4.2/PowerSkin-1.4.2.pkg",
-    "notes": "Compare, a before and after split you drag in the viewer. Select: drag over skin in the viewer to set the mask's ranges, Option-drag to remove a color."
+    "version": "1.4.3",
+    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.4.3/PowerSkin-1.4.3.pkg",
+    "notes": "A Skin Tone Correction switch to see the skin tone with and without correction, and Undo now puts a dragged slider back where the drag began."
 }
