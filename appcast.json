@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
-    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.4.1/PowerSkin-1.4.1.pkg",
-    "notes": "A redesigned inspector, finer skin mask controls, and Track Face with Reduce Flicker for a steady mask."
+    "version": "1.4.2",
+    "url": "https://github.com/ludwig-ship-it/powerskin_updates/releases/download/v1.4.2/PowerSkin-1.4.2.pkg",
+    "notes": "Compare, a before and after split you drag in the viewer. Select: drag over skin in the viewer to set the mask's ranges, Option-drag to remove a color."
 }
